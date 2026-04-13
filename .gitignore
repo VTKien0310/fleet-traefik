@@ -1,0 +1,5 @@
+/certs/*.pem
+.idea/
+.vscode/
+.DS_Store
+.env
